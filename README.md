@@ -7,8 +7,8 @@
 1. Клонируйте репозиторий на свой локальный компьютер:
 
    ```bash
-   git clone https://github.com/ваш_пользователь/telegram-voice-to-text-bot.git
-   cd telegram-voice-to-text-bot
+   git clone https://github.com/HapppyEnd/voice_bot.git
+   cd voice_bot
    ```
 
 2. Убедитесь, что у вас установлен Python 3.6 или выше.
